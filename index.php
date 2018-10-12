@@ -14,5 +14,5 @@ $base32 = $a2fa->generateSecret();
 
 echo '<img src="'.$a2fa->generateQR('YXWP3VMDAWTVNSHT').'"/>';
 
-echo $a2fa->sendCodeSMS('YXWP3VMDAWTVNSHT', '3374990343');
+echo $a2fa->sendCodeSMS('YXWP3VMDAWTVNSHT', '1231231234');
 ?>
